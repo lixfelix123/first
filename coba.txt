@@ -1,0 +1,11 @@
+====TOKOPEDIA====
+Learn Go Lang and Github
+1. Github  
+2. Golang
+
+
+=====PEGI PEGI====-
+SQL,PYTHON,DASHBOARD
+1.SQL(0/3)
+2.PYTHON(0/3)
+3.DASHOBARD(0/3)
